@@ -6,5 +6,5 @@ Situation: Developed a Used Vehicle Price Recommender as a part of my academic c
 3. Conducted EDA, Identified kept important 10% features, cutting model complexity training time half, keeping 90% accuracy.
 4. Implemented a Linear Regression model using Python reducing assessment time by 80%, Achieved 50% reduction in prediction error through model parameter optimization.
 5. Split data into training and testing sets, reducing data leakage and improving model generalization by 10%.
-6. The model achieved high accuracy, Reduced error by 55% compared to baseline models using RMSE evaluation.
+6. The model achieved high accuracy, Reduced error by 55% compared to baseline models using R2 score evaluation.
 
